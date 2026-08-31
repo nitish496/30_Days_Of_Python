@@ -24,6 +24,14 @@
 
 ---
 
+### 🤝 Sponsor
+
+<a href="https://bizbot.zvo.cn" rel="nofollow sponsored" target="_blank">
+  <img src="https://cdn.weiunity.com/site/5402/news/aeb53efd70c3422a96549251af73a379.png" alt="BizBot - An AI-powered website" height="40">
+</a>
+
+---
+
 # 📖 About This Repository
 
 Welcome to **30 Days of Java** — a structured, beginner-friendly Java course designed to help you build a strong foundation in Java programming through consistent daily learning.
